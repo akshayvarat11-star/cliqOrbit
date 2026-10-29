@@ -1,0 +1,687 @@
+# PROJECT: CLIQORBIT — AI-POWERED PROGRAMMATIC ADVERTISING & DIGITAL TECHNOLOGY WEBSITE
+
+## 1. YOUR ROLE
+
+Act as a world-class creative director, UI/UX designer, motion designer, Angular architect, frontend engineer, and digital marketing technology strategist.
+
+Design and build a complete, production-quality, visually outstanding company website for **CliqOrbit**, an ambitious technology startup focused on programmatic advertising, digital marketing, AI-powered marketing automation, lead generation, and custom software development.
+
+Do not create a generic digital agency template. Build a distinctive, premium, futuristic, interactive brand experience that communicates intelligence, precision, motion, automation, and measurable growth.
+
+The result must feel like a combination of a premium AdTech company, an AI SaaS platform, a modern digital innovation studio, and a future-ready software engineering company.
+
+## 2. COMPANY BRAND AND POSITIONING
+
+**Company name:** CliqOrbit
+
+**Primary positioning:** AI-Powered Programmatic Advertising & Marketing Technology
+
+**Secondary positioning:** Digital Marketing, AI Automation, and Custom Software Development
+
+**Core brand idea:** Every click has a purpose. Every signal creates an opportunity. Every interaction moves a business forward.
+
+**Primary tagline:**
+"Turn Every Click Into Momentum."
+
+**Alternative headline:**
+"Where Every Click Finds Its Orbit."
+
+**Supporting message:**
+"From intelligent audience signals to AI-powered lead generation and autonomous advertising technology, CliqOrbit connects data, creativity, and software to help businesses grow smarter."
+
+**Brand personality:**
+- Premium and globally ambitious
+- Futuristic but professional
+- Technically credible
+- Creative and experimental
+- Data-driven and outcome-focused
+- Human-centered and trustworthy
+
+The company must be presented as an ambitious, engineering-led startup building toward its own autonomous programmatic advertising ecosystem. Do not falsely imply that an in-house ad exchange is already fully operational.
+
+## 3. DESIGN INSPIRATION
+
+Reference website: https://www.acunexus.com/
+
+Study its public-facing business positioning, programmatic advertising focus, service presentation, content hierarchy, innovation narrative, team section, and contact experience.
+
+Use it only as strategic inspiration. Do not copy its source code, exact layouts, written content, branding, graphics, or proprietary assets.
+
+Create a completely original CliqOrbit identity, with a stronger emphasis on orbital motion, click-point interactions, signal intelligence, AI-powered workflows, and the journey from advertising signals to measurable business outcomes.
+
+## 4. VISUAL DESIGN SYSTEM
+
+Create a sophisticated visual language based on the concept of an intelligent digital universe.
+
+### Color palette
+- Deep midnight navy: #080D1B
+- Space background: #0B1020
+- Electric violet: #8257FF
+- Orbit cyan: #20D9FF
+- Signal blue: #477BFF
+- Soft white: #F6F8FF
+- Muted slate: #9AA6C2
+
+Use gradients sparingly and intentionally. Combine dark cinematic sections with selected bright, clean sections for readability and visual rhythm.
+
+### Signature visual concept
+Build an original animated CliqOrbit visual identity using:
+- Orbital rings and elliptical paths
+- Glowing nodes and click-point particles
+- Signal waves connecting different nodes
+- Moving data streams
+- Floating campaign cards
+- Abstract audience clusters
+- Interactive campaign metrics
+- AI-generated insight panels
+- Network graphs connecting signals, audiences, and conversions
+
+The orbital animation must be meaningful, not decorative. Visually communicate how audience signals flow into AI intelligence, campaign activation, and measurable results.
+
+Use restrained glassmorphism, soft glows, fine borders, depth, subtle gradients, and premium typography. Maintain a consistent spacing system, responsive grids, and carefully designed visual hierarchy.
+
+Avoid excessive neon, random floating elements, distracting animations, generic stock imagery, and overused gradient cards.
+
+## 5. HERO SECTION — FIRST IMPRESSION
+
+The first viewport must be memorable and immediately communicate what CliqOrbit does.
+
+Create a full-screen or near-full-screen hero with a premium dark background.
+
+### Left side
+Small eyebrow label:
+"PROGRAMMATIC ADVERTISING • AI • DIGITAL INNOVATION"
+
+Main heading:
+"Turn Every Click Into Momentum."
+
+Supporting copy:
+"Smarter signals. Sharper targeting. AI-powered growth. CliqOrbit connects programmatic advertising, intelligent marketing automation, and custom technology to turn digital interactions into meaningful business opportunities."
+
+Primary CTA: "Build Your Growth Engine"
+
+Secondary CTA: "Explore Our Capabilities"
+
+Add a small trust-oriented statement such as:
+"Strategy meets intelligence. Technology delivers momentum."
+
+### Right side
+Create an original, responsive, animated orbital visualization.
+
+At the center, show the CliqOrbit brand mark. Around it, place interconnected nodes labeled:
+- Audience Signals
+- AI Intelligence
+- Campaign Activation
+- Lead Generation
+- Performance Insights
+
+Animate the signal flow between these nodes using SVG, CSS, or a lightweight motion library.
+
+On pointer movement, let the orbital visualization respond subtly. Clicking a node should reveal a short explanation in an accessible information panel.
+
+Add a few floating, simulated dashboard cards displaying illustrative metrics such as impressions, engagement, conversion trends, and campaign status.
+
+All sample metrics must be explicitly presented as illustrative demo data, never as real company results.
+
+The hero must load quickly, remain readable, support mobile layouts, and provide a reduced-motion experience.
+
+## 6. WEBSITE STRUCTURE
+
+Create the following complete website sections.
+
+### A. Navigation
+
+Create a premium sticky navigation bar featuring:
+- CliqOrbit logo and custom orbit-inspired icon
+- Home
+- Solutions
+- Programmatic
+- AI & Automation
+- Technology
+- About Us
+- Contact
+
+Primary CTA: "Let's Talk Growth"
+
+Use smooth anchor navigation, clear active states, accessible mobile navigation, and a polished mobile menu.
+
+### B. Interactive capability overview
+
+Headline:
+"One Connected Ecosystem. Infinite Growth Opportunities."
+
+Introduce the relationship between media intelligence, creative execution, automation, and technology.
+
+Create an interactive capability map where users can explore how different services connect.
+
+Show the flow:
+
+Audience Signals → AI Intelligence → Campaign Strategy → Activation → Measurement → Optimization
+
+Each stage should open a small explanation panel when selected.
+
+### C. Programmatic advertising
+
+This must be the most prominent service section because programmatic advertising is the company's primary specialization.
+
+Headline:
+"Programmatic Advertising, Engineered for What's Next."
+
+Explain how programmatic technology helps brands reach relevant audiences through data-driven media buying, automated workflows, and campaign optimization.
+
+Create service cards for:
+
+1. Programmatic Media Buying
+2. Audience Intelligence & Signal Activation
+3. Real-Time Campaign Optimization
+4. Display & Video Advertising
+5. Connected TV (CTV) Advertising
+6. Digital Out-of-Home (DOOH) Advertising
+7. Performance Measurement & Attribution
+8. Publisher Monetization & Yield Optimization
+9. Advertising Technology Integration
+
+Use animated illustrations of campaign flows, media inventory, audience clusters, and performance dashboards.
+
+Include a distinctive interactive concept called "Inside the Ad Decision": demonstrate a simulated advertising request moving through audience/context evaluation, a hypothetical bid decision, creative selection, and impression delivery.
+
+Clearly label this as an educational simulation, not a live bidding engine.
+
+### D. AI-powered marketing automation
+
+Headline:
+"From Signals to Intelligent Action."
+
+Position CliqOrbit as an AI-enabled marketing technology partner.
+
+Include:
+- AI-assisted lead generation
+- Lead qualification and scoring
+- Audience segmentation
+- Campaign performance analysis
+- Marketing workflow automation
+- AI-powered reporting and insights
+- Personalized campaign recommendations
+- Automated follow-up workflows
+- CRM and marketing platform integrations
+- AI-assisted creative and content workflows
+
+Build an animated workflow builder illustration where signal inputs flow through AI processing, qualification, campaign actions, and reporting.
+
+Show a simulated AI insight panel with example recommendations.
+
+Use language that communicates practical value without promising guaranteed leads, conversions, or ROI.
+
+### E. Digital marketing services
+
+Headline:
+"Creative Thinking. Measurable Execution."
+
+Show a coherent service portfolio:
+- Search Engine Optimization (SEO)
+- Search Engine Marketing (SEM) and paid search
+- Paid social advertising
+- Social media strategy and management
+- Content marketing
+- Landing page optimization
+- Conversion Rate Optimization (CRO)
+- Analytics and campaign reporting
+- Digital campaign strategy
+- Brand and creative campaign development
+
+Explain how digital marketing works together with programmatic advertising, data, and automation.
+
+Use distinctive service illustrations and hover interactions rather than identical generic cards.
+
+### F. AI-enabled software development
+
+Headline:
+"Technology That Moves Marketing Forward."
+
+Present software development as a complementary business line and a core engineering capability.
+
+Include:
+- Custom web application development
+- AI-powered business applications
+- Marketing automation software
+- AI API integration
+- Analytics dashboards
+- CRM and marketing tool integrations
+- Admin portals and enterprise applications
+- Workflow automation systems
+- API development and integration
+- Scalable cloud-ready architectures
+
+Highlight the company's ability to build software tailored to real business workflows.
+
+Create a polished interactive technology diagram showing frontend applications, backend APIs, AI services, databases, and marketing integrations.
+
+Do not display unsupported client logos, certifications, partnerships, or claims of completed products.
+
+### G. Our future vision — CliqOrbit Ad Exchange
+
+This is a signature section that differentiates the company.
+
+Headline:
+"Building the Next Orbit of Advertising."
+
+Supporting copy:
+"Our long-term vision is to develop an intelligent, automation-first advertising ecosystem that connects demand, supply, audience signals, and AI-assisted decisions through a unified technology platform."
+
+Create a futuristic conceptual visualization of a programmatic advertising exchange.
+
+Show these components:
+- Advertisers and demand-side platforms
+- Publishers and supply-side platforms
+- Ad inventory
+- Bid requests
+- Auction and decisioning engine
+- AI-assisted optimization
+- Brand safety and quality controls
+- Reporting and measurement
+
+Use animated connections and a simulated real-time auction visualization.
+
+Include a clear statement:
+"Conceptual platform vision — capabilities are subject to development."
+
+Do not claim that CliqOrbit currently operates a production ad exchange or supports real-time bidding unless that capability is implemented and verified.
+
+### H. Interactive demo dashboard
+
+Build an attractive front-end demo called "CliqOrbit Intelligence Lab."
+
+Include:
+- Campaign overview
+- Illustrative impressions and clicks
+- CTR and conversion-rate metrics
+- Campaign performance chart
+- Audience segment visualization
+- AI-generated sample insight
+- Campaign status indicators
+- A simulated optimization recommendation
+
+Use mock JSON data stored locally or returned by a mock API service.
+
+Add working date-range filters, campaign selection, and metric updates using the mock data.
+
+Clearly identify the dashboard as a product concept or demonstration. Never present generated numbers as actual company performance.
+
+### I. How we work
+
+Headline:
+"From First Signal to Lasting Impact."
+
+Create an animated five-stage process:
+
+01. Discover — understand business objectives and audiences.
+
+02. Strategize — define the campaign, technology, and measurement plan.
+
+03. Build — create integrations, creative experiences, and automation.
+
+04. Activate — launch and manage campaigns or deploy software.
+
+05. Learn & Optimize — analyze results and improve based on evidence.
+
+Connect the stages using a flowing orbital path.
+
+### J. About CliqOrbit
+
+Headline:
+"Built by People Who Connect Ideas to Execution."
+
+Explain the company's focus on programmatic advertising, AI-driven marketing, digital experiences, and practical software engineering.
+
+Emphasize curiosity, transparency, measurable improvement, technical ownership, and continuous innovation.
+
+Do not invent the founding date, company size, client portfolio, revenue, office addresses, awards, or company history.
+
+### K. Meet the team
+
+Show the founding/core team in a premium, friendly layout.
+
+Team members:
+- Akshay V.
+- Neha K.
+- Nilam
+- Surabh Das
+
+Use these names exactly as supplied unless the company confirms full names and preferred spellings.
+
+Create an illustrated team section using a cohesive, Studio Ghibli-inspired, hand-painted anime aesthetic: warm lighting, whimsical but professional backgrounds, soft colors, expressive illustrated portraits, and a subtle futuristic orbital atmosphere.
+
+Important: Do not invent the actual appearances of these people. Until real reference photographs are supplied, use clearly fictional, stylized team avatars rather than claiming the illustrations are accurate portraits.
+
+Give each member a profile card with:
+- Illustrated avatar
+- Name
+- Role placeholder
+- Short professional introduction placeholder
+
+Do not invent individual job titles, qualifications, or personal biographies. Make these fields easy to replace later.
+
+Keep the team illustrations consistent in style, framing, lighting, and visual quality. Ensure the artwork complements the premium AdTech design instead of making the website look childish.
+
+### L. Contact and project inquiry form
+
+Headline:
+"Have a Growth Challenge? Let's Find Its Orbit."
+
+Supporting copy:
+"Tell us what you're building, what you're trying to improve, or where advertising technology could take your business next."
+
+Build a polished Angular Reactive Form.
+
+Required fields:
+- Full name
+- Work email
+- Company name
+- Service of interest
+- Project budget (optional)
+- Project details
+- Consent to the privacy policy
+
+Service options:
+- Programmatic Advertising
+- Digital Marketing
+- AI & Marketing Automation
+- AI Software Development
+- Custom Web Application
+- Publisher Monetization
+- Ad Exchange Technology
+- Other
+
+Form requirements:
+- Use Angular Reactive Forms and FormBuilder.
+- Implement required-field, email, minimum-length, and relevant input validation.
+- Display accessible, field-specific validation messages.
+- Validate on blur or submission without overwhelming users.
+- Disable submission while the form is processing.
+- Display an animated loading state.
+- Display a polished success state after a successful mock submission.
+- Display a useful error state if the mock API fails.
+- Preserve user-entered values after a failed submission.
+- Prevent duplicate submissions.
+- Include keyboard navigation and accessible labels.
+- Add consent validation and a functional privacy-policy link.
+- Keep the form fully responsive.
+
+Create a dedicated ContactService that submits the form to a mock API endpoint or local mock service.
+
+For now, use a configurable environment-based API URL and a development mock implementation. Keep the service interface ready for future integration with a real backend.
+
+Do not expose API secrets in Angular environment files. Do not claim that an inquiry has actually reached the company when using a mock service.
+
+### M. Footer
+
+Include:
+- CliqOrbit logo and tagline
+- Short company introduction
+- Services navigation
+- Technology links
+- About and Contact
+- LinkedIn and other social links as configurable placeholders
+- Privacy Policy
+- Terms of Service
+- Copyright notice
+
+Do not invent live social URLs, addresses, phone numbers, or email addresses. Use configurable placeholders until the official details are provided.
+
+## 7. REQUIRED TECHNOLOGY STACK
+
+Build the website using Angular as the primary framework.
+
+### Frontend
+- Angular with a current stable version; target Angular 20 compatibility.
+- TypeScript with strict typing.
+- Standalone Angular components.
+- Angular Router where appropriate.
+- Angular Reactive Forms.
+- RxJS.
+- Angular Signals where useful for local reactive state.
+- HTML5 and semantic markup.
+- SCSS or well-organized CSS.
+- Bootstrap Icons for interface icons.
+
+### Animation and graphics
+- CSS animations and transitions.
+- SVG for orbital diagrams, signal flows, and lightweight visualizations.
+- A compatible motion library such as GSAP only when it adds meaningful value.
+- Canvas or WebGL only if justified by the experience and performance budget.
+
+Avoid adding large dependencies for simple animations.
+
+### Backend integration readiness
+The first release is frontend-focused and must run with mock data.
+
+Prepare clean interfaces and service boundaries for a future Python FastAPI backend.
+
+Potential future endpoints include:
+- POST /api/contact
+- GET /api/demo/campaigns
+- GET /api/demo/analytics
+- POST /api/ai/insights
+
+These are proposed endpoint contracts, not existing live APIs.
+
+Do not make the website dependent on a real backend during the initial development phase.
+
+## 8. ANGULAR PROJECT ARCHITECTURE
+
+Organize the application into maintainable, reusable features.
+
+Suggested structure:
+
+src/
+  app/
+    core/
+      services/
+        contact.service.ts
+        analytics.service.ts
+      models/
+      interceptors/
+    shared/
+      components/
+        navbar/
+        footer/
+        orbital-visual/
+        section-heading/
+        service-card/
+        team-card/
+        animated-counter/
+    features/
+      home/
+      programmatic/
+      ai-automation/
+      digital-marketing/
+      software-development/
+      ad-exchange/
+      demo-dashboard/
+      about/
+      contact/
+    data/
+      mock-campaigns.ts
+      mock-insights.ts
+    app.routes.ts
+    app.config.ts
+  environments/
+
+Adapt this structure where appropriate. Do not create unnecessary files or empty abstractions.
+
+Requirements:
+- Strong separation of concerns
+- Reusable standalone components
+- Typed interfaces and models
+- Centralized mock data
+- Dedicated services for API calls
+- Clean routing
+- Error handling
+- Lazy loading for suitable feature routes
+- Consistent naming conventions
+- Responsive and accessible components
+- Maintainable SCSS
+- No monolithic components
+- No unnecessary direct DOM manipulation
+- No secrets in frontend code
+
+Use Bootstrap Icons through a consistent icon strategy. Do not mix unrelated icon styles.
+
+## 9. SIGNATURE INTERACTIONS AND ANIMATION
+
+The website should feel alive, precise, and premium.
+
+Implement:
+- A custom orbital hero animation
+- Subtle cursor-reactive visual elements on desktop
+- Scroll-triggered section reveals
+- Animated SVG signal paths
+- Interactive service cards
+- Smooth navigation transitions
+- Responsive navigation
+- Animated metric counters with illustrative data
+- Interactive workflow stages
+- A simulated ad auction
+- Interactive dashboard filters
+- Subtle magnetic or directional button feedback where appropriate
+- Form submission, success, and error animations
+- A floating back-to-top control
+- Small microinteractions for hover, focus, selection, and clicks
+
+The signature concept should make the visitor feel that each interaction activates a signal in the CliqOrbit ecosystem.
+
+Motion rules:
+- Use restrained easing and consistent durations.
+- Avoid unnecessary parallax and excessive motion.
+- Respect prefers-reduced-motion.
+- Do not rely on animation to communicate essential information.
+- Ensure touch devices have equivalent interactions.
+- Never let animations interfere with navigation, forms, or content accessibility.
+
+## 10. RESPONSIVE DESIGN
+
+Design mobile-first and validate the experience at:
+- Small phones: 320–375 px
+- Standard phones: 390–430 px
+- Tablets: 768–1024 px
+- Laptops: 1280–1440 px
+- Large desktop displays: 1600 px and above
+
+Ensure:
+- No horizontal overflow.
+- Correct responsive typography.
+- Readable line lengths.
+- Appropriately scaled orbital graphics.
+- Touch-friendly controls.
+- Responsive service grids.
+- A well-designed mobile menu.
+- Proper stacking of hero content.
+- Usable forms on narrow screens.
+- Lightweight mobile animations.
+
+The mobile website must feel intentionally designed, not like a compressed desktop layout.
+
+## 11. SEO, PERFORMANCE, AND ACCESSIBILITY
+
+Implement:
+- Semantic HTML landmarks.
+- A unique page title and meta description.
+- Canonical URL configuration where appropriate.
+- Open Graph metadata.
+- Descriptive heading hierarchy.
+- Descriptive image alt text.
+- Meaningful internal links.
+- Organization and service structured data where accurate.
+- Descriptive routes.
+- Sitemap and robots.txt readiness.
+- A custom 404 page.
+- Lazy loading for non-critical imagery.
+- Optimized image formats.
+- Minimal layout shifts.
+- Efficient change detection and reactive state management.
+- Appropriate caching and asset optimization.
+- WCAG 2.2 AA-oriented accessibility practices.
+
+Use keywords naturally, including:
+Programmatic Advertising, AdTech, Digital Marketing, Marketing Automation, AI-Powered Marketing, Lead Generation, Audience Intelligence, Campaign Optimization, Publisher Monetization, Ad Exchange Technology, AI Software Development, and Custom Web Application Development.
+
+Avoid keyword stuffing, fabricated statistics, and unsupported performance claims.
+
+Aim for strong Core Web Vitals and a Lighthouse score of 90+ where practical, while recognizing that actual scores depend on hosting, assets, and runtime conditions.
+
+## 12. CONTENT AND CONVERSION STRATEGY
+
+Every major section must answer three questions:
+
+1. What does CliqOrbit offer?
+2. How does it help the customer?
+3. What should the customer do next?
+
+Use clear CTAs such as:
+- Build Your Growth Engine
+- Explore Programmatic
+- See the Intelligence Lab
+- Discuss Your Campaign
+- Build with CliqOrbit
+- Request a Consultation
+
+Use concise, specific, credible copy. Avoid generic phrases such as "revolutionary solutions" unless supported by concrete explanations.
+
+Clearly distinguish current services from planned products and future platform capabilities.
+
+## 13. DELIVERABLES
+
+Produce a complete, runnable Angular application rather than just a static mockup or design description.
+
+Deliver:
+1. Complete Angular source code.
+2. Reusable standalone components.
+3. Responsive page layouts.
+4. Orbital SVG/CSS visualizations.
+5. Working navigation and interactions.
+6. Functional Reactive Form with validation.
+7. Mock API service and demo data.
+8. Interactive demo dashboard.
+9. Team illustration integration points.
+10. Bootstrap Icons integration.
+11. SEO metadata and accessibility foundations.
+12. Environment configuration for future API integration.
+13. README with setup and run instructions.
+14. Clear notes on which features are simulated and which are implemented.
+15. A list of required assets and the correct locations for replacing placeholders.
+
+Use actual working code. Do not substitute the entire implementation with pseudo-code, screenshots, or isolated snippets.
+
+## 14. IMPLEMENTATION WORKFLOW
+
+Follow this order:
+
+Phase 1 — Establish the brand direction, typography, colors, layout system, and reusable UI primitives.
+
+Phase 2 — Build the navigation, hero, orbital visualization, and main landing-page structure.
+
+Phase 3 — Implement programmatic advertising, AI automation, digital marketing, and software development sections.
+
+Phase 4 — Build the future Ad Exchange concept and interactive Intelligence Lab.
+
+Phase 5 — Add About, Team, Contact, and Footer sections.
+
+Phase 6 — Implement Angular Reactive Forms, mock services, typed models, loading states, and error handling.
+
+Phase 7 — Add responsive behavior, animations, accessibility, SEO, and performance optimization.
+
+Phase 8 — Run the application, inspect the result, fix compilation and runtime errors, and test the main interactions.
+
+After each phase, verify the implementation before moving forward.
+
+## 15. FINAL QUALITY STANDARD
+
+The final website must be visually distinctive, technically credible, responsive, interactive, and easy to maintain.
+
+Its defining visual signature must be the relationship between clicks, orbital motion, audience signals, AI intelligence, and advertising outcomes.
+
+A visitor should immediately understand that CliqOrbit is building at the intersection of programmatic advertising, digital marketing, AI automation, and software engineering.
+
+Prioritize a memorable first impression, clear business positioning, working interactions, and credible content over unnecessary visual complexity.
+
+**Begin by building the actual Angular project and its foundational design system, then implement the complete website in the phases above.**

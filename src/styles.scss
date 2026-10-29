@@ -1,1 +1,69 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap');
+
+:root {
+    color-scheme: dark;
+    --bg: #080d1b;
+    --panel: #0b1020;
+    --panel-soft: #101a2c;
+    --line: rgba(154, 166, 194, 0.16);
+    --text: #f6f8ff;
+    --muted: #9aa6c2;
+    --violet: #8257ff;
+    --cyan: #20d9ff;
+    --blue: #477bff;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Plus Jakarta Sans', 'Segoe UI', sans-serif;
+}
+
+body,
+input,
+select,
+textarea,
+button {
+    font-family: 'Plus Jakarta Sans', 'Segoe UI', sans-serif;
+}
+
+a {
+    color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Space Grotesk', 'Plus Jakarta Sans', sans-serif;
+    margin-top: 0;
+}
+
+p {
+    margin-top: 0;
+}
+
+button,
+input,
+select,
+textarea {
+    font: inherit;
+}
+
+textarea {
+    resize: vertical;
+}
+
+::selection {
+    background: rgba(130, 87, 255, 0.32);
+}
