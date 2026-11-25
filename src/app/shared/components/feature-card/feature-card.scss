@@ -1,0 +1,56 @@
+:host {
+  display: block;
+}
+.feature-card {
+  height: 100%;
+  min-height: 188px;
+  min-width: 0;
+  padding: 25px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: var(--bg-card);
+  display: grid;
+  grid-template-columns: 24px minmax(0, 1fr);
+  gap: 10px;
+  transition: 0.2s ease;
+}
+.feature-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--primary);
+}
+.check {
+  width: 24px;
+  height: 24px;
+  border: 1.5px solid var(--primary);
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: var(--primary);
+  font-size: 11px;
+}
+.copy h3 {
+  font-size: 15px;
+  line-height: 1.25;
+}
+.copy p {
+  margin: 14px 0 0;
+  color: var(--text-muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+@media (min-width: 1024px) {
+  .feature-card {
+    min-height: 176px;
+    padding: 20px;
+    grid-template-columns: 22px minmax(0, 1fr);
+  }
+  .check {
+    width: 22px;
+    height: 22px;
+  }
+  .copy p {
+    margin-top: 12px;
+    font-size: 12px;
+    line-height: 1.55;
+  }
+}

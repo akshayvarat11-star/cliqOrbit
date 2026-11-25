@@ -1,0 +1,14 @@
+<header class="topbar">
+  <nav class="nav container" aria-label="Main navigation">
+    <a class="brand" routerLink="/" aria-label="CliqOrbit home">
+      <img class="brand-logo" src="/cliqorbit-logo-white-transparent.png" alt="CliqOrbit" />
+    </a>
+    <button class="menu-toggle" type="button" aria-label="Toggle navigation" [attr.aria-expanded]="mobileOpen" (click)="mobileOpen = !mobileOpen"><span></span><span></span><span></span></button>
+    <div class="nav-links" [class.open]="mobileOpen">
+      @for (item of navItems; track item.route) {
+        <a [routerLink]="item.route" routerLinkActive="active" [routerLinkActiveOptions]="{exact: item.route === '/'}" (click)="mobileOpen=false">{{ item.label }}</a>
+      }
+    </div>
+    <a class="nav-cta" routerLink="/contact">Get Started</a>
+  </nav>
+</header>

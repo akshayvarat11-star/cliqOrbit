@@ -1,0 +1,39 @@
+.stat-box {
+  height: 116px;
+  padding: 20px 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: rgba(15, 32, 64, 0.35);
+}
+.stat-box strong {
+  max-width: 150px;
+  color: var(--primary);
+  font:
+    700 34px 'Space Grotesk',
+    sans-serif;
+  line-height: 0.95;
+}
+.stat-box strong.wide {
+  width: 150px;
+  font-size: 34px;
+  line-height: 1;
+}
+.stat-box span {
+  margin-top: 12px;
+  color: var(--text-muted);
+  font-size: 13px;
+  line-height: 1.35;
+}
+@media (max-width: 600px) {
+  .stat-box {
+    height: 110px;
+  }
+  .stat-box strong {
+    font-size: 29px;
+  }
+}

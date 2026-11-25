@@ -1,0 +1,10 @@
+<section class="cta-band">
+  <div class="container cta-layout">
+    <div>
+      <h2>{{ heading() }}</h2>
+      <p>{{ paragraph() }}</p>
+      <div class="actions"><a class="primary-btn" routerLink="/contact">{{ button() }} →</a>@if(secondary()){<a class="secondary-btn" routerLink="/portfolio">{{ secondary() }}</a>}</div>
+    </div>
+    @if(showStats()){<div class="stats-grid"><div><strong>500+</strong><span>Clients Served</span></div><div><strong>10B+</strong><span>Ad Impressions</span></div><div><strong>15+</strong><span>Countries</span></div><div><strong>98%</strong><span>Client Retention</span></div></div>}
+  </div>
+</section>
