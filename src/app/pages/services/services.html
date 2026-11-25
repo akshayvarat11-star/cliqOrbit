@@ -1,0 +1,25 @@
+<section class="hero-section hero-grid">
+  <div class="container hero">
+    <span class="pill">Our Services</span>
+    <h1>End-to-End Digital Marketing Solutions</h1>
+    <p>From programmatic advertising to brand strategy, we engineer every service for measurable performance and lasting growth.</p>
+    <nav class="hero-pills" aria-label="Jump to a service">
+      <a routerLink="." fragment="programmatic">Programmatic Ads</a>
+      <a routerLink="." fragment="email">Email Marketing</a>
+      <a routerLink="." fragment="web">Web Design</a>
+      <a routerLink="." fragment="branding">Branding</a>
+    </nav>
+  </div>
+</section>
+
+@for (section of sections; track section.id) {
+  <app-service-section [service]="section" />
+}
+
+<section class="final-cta">
+  <div class="container">
+    <h2>Ready to Get Started?</h2>
+    <p>Tell us about your goals and we'll recommend the right combination of services for your business.</p>
+    <a class="primary-btn" routerLink="/contact">Talk to Our Team →</a>
+  </div>
+</section>

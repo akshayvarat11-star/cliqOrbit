@@ -1,0 +1,132 @@
+:host {
+  display: block;
+}
+.service-section {
+  scroll-margin-top: 110px;
+  padding: 88px 0;
+  border-bottom: 1px solid var(--border);
+}
+.service-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 64px;
+  align-items: start;
+}
+.eyebrow-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.icon-box {
+  width: 50px;
+  height: 50px;
+  display: grid;
+  place-items: center;
+  border: 1px solid rgba(31, 107, 255, 0.35);
+  border-radius: 12px;
+  background: var(--primary-soft);
+  color: var(--primary);
+  font-size: 19px;
+}
+.eyebrow {
+  color: var(--primary);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+.service-info h2 {
+  max-width: 780px;
+  margin: 24px 0;
+  font-size: 33px;
+  line-height: 1.15;
+}
+.description {
+  max-width: 780px;
+  margin: 24px 0;
+  color: var(--text-muted);
+  font-size: 16px;
+  line-height: 1.65;
+}
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.primary-btn {
+  margin-top: 40px;
+}
+.feature-grid {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+.feature-grid li {
+  display: block;
+}
+.reverse .feature-grid {
+  grid-column: 1;
+  grid-row: 1;
+}
+.reverse .service-info {
+  grid-column: 2;
+}
+@media (min-width: 1024px) and (max-width: 1199px) {
+  .service-grid {
+    gap: 36px;
+  }
+  .feature-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 1023px) {
+  .service-grid {
+    grid-template-columns: 1fr;
+    gap: 42px;
+  }
+  .reverse .feature-grid,
+  .reverse .service-info {
+    grid-column: auto;
+    grid-row: auto;
+  }
+  .reverse .service-info {
+    order: -1;
+  }
+  .feature-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 600px) {
+  .service-section {
+    padding: 64px 0;
+  }
+  .eyebrow-row {
+    align-items: center;
+    gap: 12px;
+  }
+  .eyebrow {
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  .icon-box {
+    width: 44px;
+    height: 44px;
+    flex: 0 0 44px;
+  }
+  .service-info h2 {
+    font-size: 31px;
+    margin: 20px 0;
+  }
+  .description {
+    font-size: 15px;
+  }
+  .stats {
+    grid-template-columns: 1fr;
+  }
+  .feature-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+}
